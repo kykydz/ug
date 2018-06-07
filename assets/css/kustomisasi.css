@@ -1,0 +1,59 @@
+nav.navbar-light {	background-color: #d42628;}
+.header .top-navbar .navbar-header { background-color: #d42628 }
+.text-muted {
+	color: white !important;
+}
+
+.sidebar-nav > ul > li > a i{ color: #d42628 }
+.sidebar-nav ul li a:hover i{ color: #d42628 }
+.sidebar-nav ul li a:hover { color: #d42628 }
+.sidebar-nav > ul > li.active > a i { color: #d42628 }
+.sidebar-nav > ul > li.active > a { color: #d42628 }
+
+
+.card-body .nav .nav-tabs .customtab {
+	text-align: center;
+	color: red;
+}
+
+ul.nav-tabs {
+	border-bottom: none;
+	list-style: none;
+}
+ul.nav-tabs li {
+	display: inline;
+}
+
+.nav-link {
+
+}
+
+.tabsku {
+	display: table;	
+	align-items: center;
+	align-self: center;
+	text-align: center;
+}
+
+.footer{
+	  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+  margin: 0;
+  text-align: right;
+}
+
+tr td {
+	text-align: left;
+}
+
+thead tr th:last-child {
+	text-align: left;
+}
+tbody tr td:last-child {
+	text-align: left;
+}
